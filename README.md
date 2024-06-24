@@ -9,9 +9,9 @@ All these data will be in 3D SDF, and PDQT will provide full-fledged rapid docki
 
 Key Databases: 
 
-Indian Medicanl Plants Phytochmistry and Therapeutics: IMPPAT 
-InterBioScreen: IBS
-NPASS
-Traditional Chinese Medicine: TCM
-Taiwan Indigenous Plants: TIPdb
-NPAtlas
+Indian Medicanl Plants Phytochmistry and Therapeutics: IMPPAT, 
+InterBioScreen: IBS,
+NPASS,
+Traditional Chinese Medicine: TCM,
+Taiwan Indigenous Plants: TIPdb,
+NPAtlas.
