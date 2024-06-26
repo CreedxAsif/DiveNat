@@ -11,6 +11,8 @@ All these data will be in 3D SDF, and PDQT will provide full-fledged rapid docki
 
 Indian Medicanl Plants Phytochmistry and Therapeutics: (IMPPAT)
 
+Biocrick Natural products (commercially available products)
+
 InterBioScreen: IBS
 
 NPASS
