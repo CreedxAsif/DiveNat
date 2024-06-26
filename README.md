@@ -7,11 +7,16 @@ soon we will come up with exciting datasets to perform Virtual screening using n
 All these data will be in 3D SDF, and PDQT will provide full-fledged rapid docking 🚀 without the need for database conversion. 🔁 
 
 
-Key Databases: 
+## Key Databases: 
 
-Indian Medicanl Plants Phytochmistry and Therapeutics: IMPPAT, 
-InterBioScreen: IBS,
-NPASS,
-Traditional Chinese Medicine: TCM,
-Taiwan Indigenous Plants: TIPdb,
-NPAtlas.
+Indian Medicanl Plants Phytochmistry and Therapeutics: (IMPPAT)
+
+InterBioScreen: IBS
+
+NPASS
+
+Traditional Chinese Medicine: TCM
+
+Taiwan Indigenous Plants: TIPdb
+
+NPAtlas
