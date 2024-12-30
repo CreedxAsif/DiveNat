@@ -1,24 +1,22 @@
-# DockingNaturals
+# DiveNat: Unveiling the Global Chemical Diversity of Natural Products 
 
 This repository is under development.. 🏗️🚜🚧
 
-soon we will come up with exciting datasets to perform Virtual screening using natural compounds 🌿
 
-All these data will be in 3D SDF, and PDQT will provide full-fledged rapid docking 🚀 without the need for database conversion. 🔁 
+## Key Natural Product Databases: 
+
+IMPPAT 2.0: Indian Medicinal Plants Phytochemistry and Therapeutics
+
+TCM: Traditional Chinese Medicine
+
+TIPdb: Taiwan Indigenous Plants
+
+NuBBE: Natural products from Brazilian biodiversity
+
+peruNPDB: Natural products from Peru
+
+EANDB & NANDB: Natural products from South Africa
+
+Phyto4Health: Natural products from Russia
 
 
-## Key Databases: 
-
-Indian Medicanl Plants Phytochmistry and Therapeutics: (IMPPAT)
-
-Biocrick Natural products (commercially available products)
-
-InterBioScreen: IBS
-
-NPASS
-
-Traditional Chinese Medicine: TCM
-
-Taiwan Indigenous Plants: TIPdb
-
-NPAtlas
